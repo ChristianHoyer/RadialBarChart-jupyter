@@ -1,3 +1,2 @@
-matplotlib
-numpy
-random
+matplotlib == '3.1.0'
+numpy == '1.16.4'
